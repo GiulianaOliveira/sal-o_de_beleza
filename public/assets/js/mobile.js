@@ -1,4 +1,3 @@
-
 // Menu Hamburguer Lateral
 
 document.addEventListener('DOMContentLoaded', function () {
